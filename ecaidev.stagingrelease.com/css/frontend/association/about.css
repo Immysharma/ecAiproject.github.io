@@ -1,0 +1,20 @@
+.partnertext_wrapper h4 {
+    font-weight: normal;
+    font-family: 'MontserratRegular';
+    margin-top: 28px;
+}
+.partnertext_wrapper h3 {
+    font-weight: normal;
+    font-family: 'MontserratRegular';
+    /*margin-top: 30px;*/
+}
+.partnertext_wrapper h1, .view_wrapper h1, .view_wrapper h1 {
+    font-weight: normal;
+    font-family: 'MontserratRegular';
+}
+.view_wrapper {
+    background-color: rgb(245, 245, 245);
+}
+.read_blk {
+    margin-bottom: 30px;
+}

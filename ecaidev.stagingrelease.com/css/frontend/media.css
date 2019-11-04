@@ -1,0 +1,2843 @@
+/* Laptop Screen  */
+
+@media only screen and (min-width: 1560px) and (max-width: 2100px) {
+    .dashboard .sidebar_navigation .nav > li > a {
+        padding: 5px 8px;
+    }
+    .loginbutton_join.main-menu {
+        position: absolute;
+        right: 0;
+    }
+
+    .header-logohome {
+        position: absolute;
+        left: 0;
+    }
+
+    .header-logo {
+        position: absolute;
+        left: 123px;
+    }  
+    .coursedetails_content .col-md-10.col-md-offset-1 {
+        margin-left: 8.33333333%;
+        width: 83.33333333%;
+    }
+    .sales_block {
+        margin-right: 25px;
+    }
+    .couseslisting_box {
+        border: 1px dotted #000;
+        margin-top: 15px;
+        padding: 15px;
+    }
+    .fullscope_blk {
+        min-height: 260px;
+    }
+
+    .filter_content_wrapper {
+        padding: 144px 30px 20px 30px;
+    }
+    .inputlisttypejob_radio li {
+        margin-right: 20px;
+    }
+    .jobsbanner_wrapper {
+        height: 510px;
+        background-size: 100% auto;
+    }
+    .quote_wrapper {
+        width: 66%;
+    }
+
+    .mbox {
+        min-height: 542px;
+    }
+
+    .container{
+        width: 1200px;
+    }
+    .co-hero-slide-item-1{
+        padding: 82px 0 0;
+    }
+    .co-hero-slide-content-1 h1{
+        margin-bottom: 116px;
+    }
+    .section.position_relative{
+        bottom: -85px;
+    }
+    .section.position_relative.gposition_relative {
+        bottom: -107px;
+    }
+    .main-menu > ul .login {
+        margin-left: 161px;
+    }
+
+    .main-menu ul > li .sub-menu li a {
+        padding: 0px 40px;
+    }
+    .dis_line .dropdown-menu > li > a{
+        padding: 8px 28px;
+    }
+    .subdropdownmenu li a{
+        padding: 6px 15px;
+    }
+    .loginbutton_join.main-menu{
+        padding-right: 0px;
+    }
+    .activites {
+        padding: 0px 183px;
+    }
+    .activites_details{
+        height: 263px;
+        width: 247px;
+    }
+    .activites_details img{
+        width: 77%;
+    }
+    .mbox_content{
+        max-height: 203px;
+    }
+    .individual_royal .bus_com_hd h1{
+        right: 0;
+        bottom: -46px;
+        font-size: 100px;
+    }
+    .individual_royal .bus_com_hd p{
+        right: 0;
+        bottom: 44px;
+    }
+    .qualitycommit {
+        float: left;
+        width: 59%;
+    }
+    .benifit_wrapper .left-section_content {
+        padding: 147px 110px;
+    }
+    .benifit_wrapper.training_wrapper .left-section_content {
+        padding: 0px 110px;
+    }
+    .left-section_content{
+        padding: 38px 40px;
+    }
+    .adds_wrapper{
+        width: 18%;
+    }
+    .in_bs .co-hero-slide-content-1 h1 {
+        margin-bottom: 44px;
+    }
+    .comparisonleft_wrp {
+        width: 19%;
+        float: left;
+        margin-left: 55px;
+    }
+    .step_second .add_blog .filtersearch_blk {
+        width: 75px;
+    }
+
+}
+
+@media only screen and (min-width: 1800px) and (max-width: 1920px) {
+    .filter_content_wrapper {
+        padding: 144px 30px 20px 30px;
+    }
+    .qualitycommit {
+        float: left;
+        width: 59.6%;
+    }
+    .vdo_border img {
+        margin: -22px auto 0px auto;
+        border: 25px solid #fffcfc;
+    }
+}
+@media only screen and (min-width: 1599px) and (max-width: 1600px) {
+    .filter_content_wrapper {
+        padding: 144px 30px 20px 30px;
+    }
+    .jobsearch_wrapper {
+        height: 96%;
+    }
+}
+/* Laptop Screen  */
+@media only screen and (min-width: 1200px) and (max-width: 1400px) {
+	.add_blog .filtersearch_blk {
+		width: 68px;
+	}
+}
+
+ 
+}
+
+/* Desktop :992px. */
+@media only screen and (min-width: 1144px) and (max-width: 1324px) {
+    .submenu_list li {
+        width: auto;
+    }
+    .submenu_list li a {
+        padding: 15.5px 19px 20px 19px;
+    }
+    .pillar .submenu_list li a {
+        padding: 15.5px 16px 20px 16px;
+    }
+    .pillar .submenu_list li {
+        width: auto;
+    }
+    .adds_wrapper {
+        width: 16.5%;
+    }
+}
+@media only screen and (min-width: 1064px) and (max-width: 1144px) {
+    .section.position_relative.gposition_relative {
+        bottom: -68px;
+    }
+    .co-hero-slide-content-1 h1 {
+        font-size: 80px;
+    }
+    .co-hero-slide-content-1 {
+        margin-top: 0px;
+    }
+    .adds_wrapper {
+        width: 15.5%;
+    }
+    .globalbanner_wrapper{
+        height: auto;
+    }
+    .submenu_list li {
+        width: auto;
+    }
+    .submenu_list li a {
+        padding: 15.5px 14px 20px 14px;
+    }
+    .pillar .submenu_list li a {
+        padding: 15.5px 10px 20px 10px;
+    }
+    .pillar .submenu_list li {
+        width: auto;
+    }
+}
+@media only screen and (min-width: 1000px) and (max-width: 1064px) {
+    .section.position_relative.gposition_relative {
+        bottom: -68px;
+    }
+    .co-hero-slide-content-1 h1 {
+        font-size: 80px;
+    }
+    .adds_wrapper {
+        width: 14.5%;
+    }
+    .globalbanner_wrapper{
+        height: auto;
+    }
+    .submenu_list li {
+        width: auto;
+    }
+    .submenu_list li a {
+        padding: 15.5px 9px 20px 9px;
+    }
+    .pillar .submenu_list li a {
+        padding: 15.5px 7px 20px 7px;
+    }
+    .pillar .submenu_list li {
+        width: auto;
+    }
+}
+@media only screen and (min-width: 900px) and (max-width: 1000px) {
+    .section.position_relative.gposition_relative {
+        bottom: -66px;
+    }
+    .co-hero-slide-content-1 h1 {
+        font-size: 80px;
+    }
+    .adds_wrapper {
+        width: 14.5%;
+    }
+    .globalbanner_wrapper{
+        height: auto;
+    }
+    .submenu_list li {
+        width: auto;
+    }
+    .submenu_list li a {
+        padding: 15.5px 9px 20px 9px;
+    }
+    .submenu_list {
+        float: left;
+    }
+    .pillar .submenu_list li {
+        width: auto;
+    }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .globalbanner_wrapper{
+        height: auto;
+    }
+    h3, .h3 {
+        font-size: 19px;
+    }.featured_content img {
+        margin-right: 25px;
+    }
+    .featuredlisting_blk i {
+        margin-right: 6px;
+    }
+    .white_txt {
+        font-size: 14px;
+    }
+    .featured_footer i {
+        font-size: 18px;
+    }.white_txt {
+        font-size: 14px;
+    }
+    .featuredlisting_blk i {
+        font-size: 18px;
+    }
+    .featuredlisting_blk {
+        font-size: 14px;
+        margin-bottom: 25px;
+    }
+    .featured_footer {
+        font-size: 14px;
+    }
+    .filtersearch_blk {
+        width: 90px;
+    }
+    .qualitycommit {
+        width: 53.7%;
+    }
+    .home  .co-single-service-1 p, .home .co-tab-content-1 p, .home  .co-pricing-options-1 li, .home .co-section-title-1 p{
+        font-size:15px;
+        line-height: 26px;
+    }
+    .vdo .vdo_border{
+        width: 460px;
+    }
+    .vdo p{
+        font-size:14px;
+    }
+    .popu_heading h2{
+        font-size: 15px;
+    }
+    .main_post .popu_title p{
+        font-size:10px;
+    }
+    .contact-form .btn-text{
+        width: 34%;
+    }
+    .info_form .control-label{
+        font-size: 15px;
+    }
+    .co-pricing-options-1 li {
+        font-size: 12px;
+    }
+    /*  .main-menu > ul > li > a{
+         padding: 22px 0;
+     } */
+    .main-menu > ul .login {
+        margin-left: 16px;
+    }
+    .pillar .navbar{
+        background: green;
+    }
+    .post_btn a {
+        width: 29%;
+        margin-right: 19px;
+        margin-left: 19px;
+    }
+    .directory_btn{
+        width: 100%;
+    }
+    .co-page-banner {
+        padding: 27px 0;
+    }
+
+
+    .co-page-banner h1{
+        padding-top:0px;
+        padding-bottom:0px;
+        line-height:0px;
+    }
+
+
+
+}
+
+@media only screen and (min-width: 1000px) and (max-width: 1199px) {
+    .globalbanner_wrapper{
+        height: auto;
+    }
+    .benifits_wrapper a {
+        font-size: 22px;
+        margin-right: 25px;
+    }
+    /*     .business_banner .user_imag , .business_banner .user_images{
+            height: 220px;
+            width: 220px;
+        } */ 
+    .home  .co-single-service-1 p, .home .co-tab-content-1 p, .home  .co-pricing-options-1 li, .home .co-section-title-1 p{
+        font-size:15px;
+        line-height: 26px;
+    }
+    .featured_footer i {
+        font-size: 18px;
+    }
+    .featuredlisting_blk i {
+        font-size: 18px;
+    }
+    .featuredlisting_blk {
+        font-size: 14px;
+        margin-bottom: 25px;
+    }
+    .featured_footer {
+        font-size: 14px;
+    }
+
+}
+
+
+/* Tablet :768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .globalbanner_wrapper{
+        height: auto;
+    }
+    .co-page-banner-section::before, .co-page-banner-section::after {
+        font-size: 80px;
+    }
+    .co-page-banner-section::after {
+        line-height: 65px;
+    }
+    h1.h1jobtitle_style {
+        line-height: 40px;
+    }
+    .eventtitlesection h1 {
+        font-size: 35px;
+    }
+    .monthly_title {
+        font-size: 20px;
+        line-height: 26px;
+    }
+    .home  .co-single-service-1 p, .home .co-tab-content-1 p, .home  .co-pricing-options-1 li, .home .co-section-title-1 p{
+        font-size:15px;
+        line-height: 26px;
+    }
+    .pb-140{
+        padding-bottom: 80px;
+    }
+    /*Header Buttons*/
+    .header-section .btn, .header-search, .header-social {
+        margin-right: 50px;
+    }
+    .header-search {
+        padding-right: 50px;
+    }
+    .vdo .join_share{
+        width: 27%;
+    }
+    .video_page h2, .video_page h1, .video_page p{
+        text-align:center;
+        padding: 0px 0px 0px 0px;
+    }
+    .advertisment_content{
+        margin: 0 auto;
+    }
+    .member_content p span{
+        display: inline;
+    }
+    .member_info .join_share{
+        width: 69%;
+    }
+    .ecai_who_we_are .area-bg::after {
+        background: rgba(0, 0, 0, 0) linear-gradient(120deg, transparent 0%, #1193d4 0%) repeat scroll 0 0;
+    }
+    .post_btn a{
+        width: 22%;
+    }
+    .blog_search i{
+        right: 11px
+    }
+    .active-cyan-3 input[type=text]{
+        right: 3px;
+    }
+    .follow li i{
+        font-size: 13px;
+        margin-right: 0px;
+    }
+    .follow div{
+        line-height: 45px;
+        height: 42px;
+        width: 42px;    
+        top: 44px;
+        font-size: 9px;
+    }
+
+    .mean-nav li a img{
+        display: none;
+    }
+    
+    .innerbusiness_banner .user_images{
+        height: 200px;
+        width: 200px;
+    }
+    
+    .submenu_list li a {
+        padding: 15.5px 6px 20px 6px;
+    }
+    
+    .icon-bars{
+        display: none;
+    }
+    
+    .innerbusiness_banner .user_images{
+        height: 180px;
+        width: 180px;
+    }
+    
+    .submenu_list li a{
+        font-size: 10px;
+    }
+    /*---member-page-----*/
+    .co-page-banner h1{
+        padding-top: 0px;
+        padding-bottom: 0px;
+        line-height: 0px;
+    }
+	
+	
+	.experience_banner h1{ font-size:40px;}
+
+
+
+
+}
+@media only screen and (min-width: 857px) and (max-width: 1000px) {
+    .globalbanner_wrapper{
+        height: auto;
+    }
+    .submenu_list li {
+        width: auto;
+    }
+    .submenu_list li a {
+        padding: 15.5px 11px 20px 11px;
+    }
+    .pillar .submenu_list li a {
+        padding: 15.5px 6px 20px 6px;
+    }
+    .submenu_list {
+        float: left;
+    }
+    .pillar .submenu_list li {
+        width: auto;
+    }
+}
+@media only screen and (min-width: 768px) and (max-width: 857px) {
+    .globalbanner_wrapper{
+        height: auto;
+    }
+    .submenu_list li {
+        width: auto;
+    }
+    .submenu_list li a {
+        padding: 15.5px 5px 20px 5px;
+    }
+    .submenu_list {
+        float: left;
+    }
+    .pillar .submenu_list li {
+        width: auto;
+    }
+}
+@media only screen and (max-width: 991px){
+    
+    .comissionsection1 {
+        margin-top: 54px;
+    }
+    .formstyle1 .form-label {
+        line-height: 16px;
+        margin-bottom: 12px;
+    }
+    #sidebutton{
+        display: inline-block;
+    }
+    #sidebar{
+        transition: margin-left 0.5s ease;
+        margin-left: -303px;
+    }
+
+    #sidebar.sidedisplay{
+        margin-left: 0;
+    } 
+    .dashboard .main{
+        margin-left: 0;
+        transition: margin-left 0.5s ease;
+    }
+    .dashboard .main.margin-left{
+        margin-left: 303px;
+    }
+    .sider_adds{
+        display: none;
+    }
+    .globalbanner_wrapper{
+        height: auto;
+    }
+    .filtersearch_input i {
+        right: 10px;
+    }
+    .eventssearchwrphideontab{
+        display: none;
+    }
+    .eventssearchwrpshowontab{
+        display: block;
+        background-color: #f5f5f5;
+    }
+    .read_blk .mb-20 {
+        margin-bottom: 0;
+    }
+    .individual_royal .bus_com_hd h1 {
+        font-size: 55px;
+    }
+    .business_banner .indi_images {
+        height: 220px;
+        width: 220px;
+    }.award p {
+        padding: 0px 8em;
+    }
+    .discount_content .form-label, .discount_content .formlabel {
+        width: 100%;
+        text-align: left;
+    }
+    .discount_link a {
+        margin-right: 6%;
+    }
+    .formstyle1 .btn-toggle.btn-lg{
+        margin-top: 20px;
+    }
+    .formstyle1 .form-label {
+        margin-left: 0;
+    }
+    .weekcontent.featuredcontenttext h3 {
+        font-size: 18px;
+    }
+    .benifits_wrapper a {
+        font-size: 21px;
+        margin-right: 20px;
+    }
+    .jobs_listings {
+        float: right;
+    }
+    .circle2_blk{
+        position: unset;
+        left: unset;
+        margin: 0 auto;
+        display: block;
+    }
+    .eventtitlesection h1 {
+        font-size: 35px;
+    }
+    .eventtitlesection .featured_footer{
+        margin-bottom: 15px;
+    } 
+    .eventtitlesection .featuredfooter_links{
+        margin-bottom: 10px;
+    }
+    .eventtitlesection .featuredfooter_links:last-child{
+        margin-bottom: 0;
+    }
+    .eventdetailbanner_wrapper  img{
+        margin-bottom: 30px;
+    }
+    .seeall_circle {
+        border: 0;
+        border-bottom: 1px dotted rgb(158, 158, 158);
+        width: 150px;
+        height: auto;
+        border-radius: 0;
+        font-size: 16px;
+        padding: 12px;
+        text-align: center;
+        margin: 0 auto;
+        margin-top: 0px;
+        margin-top: 35px;
+        font-weight: normal;
+        background-color: #f5f5f5;
+    }
+    .fc.fc-unthemed th {
+        font-size: 14px;
+    }
+    .fc-day-number {
+        font-size: 14px;
+    }
+    .featuredlisting_blk i {
+        margin-right: 6px;
+    }
+    .featured_content img {
+        margin-right: 30px;
+    }
+    .featured_footer .col-md-3 {
+        width: 50%;
+        float: left;
+        min-height: 30px;
+        margin-bottom: 10px;
+    }
+    .featured_footer .col-md-3:last-child, .featured_footer .col-md-3:nth-child(3){
+        margin-bottom: 0;
+    }
+    .featuredfooter_links.text-right {
+        text-align: left;
+    }
+    .featured_footer i {
+        font-size: 18px;
+    }
+    .featuredlisting_blk i {
+        font-size: 18px;
+    }
+    .featuredlisting_blk {
+        font-size: 14px;
+        margin-bottom: 25px;
+    }
+    .white_txt {
+        font-size: 14px;
+    }
+    .featured_footer {
+        font-size: 14px;
+    }
+    .qualitycommit_img {
+        width: 100%;
+        margin-right: 0;
+        text-align: center;
+    }
+    .qualitycommit_img img {
+        width: 365px;
+    }
+    .qualitycommit {
+        float: left;
+        width: 100%;
+        margin-top: 45px;
+    }
+    .co-mission-section_wrp{
+        margin-bottom: 30px;
+    }
+    .co-mission-section-1.mission_wrapper {
+        padding-bottom: 0;
+    }
+    .pb-140{
+        padding-bottom: 80px;
+    }
+    .bus_com_hd.partnerh1text h1 {
+        right: 38px;
+        bottom: -180px;
+        font-size: 38px;
+    }
+    .bus_com_hd h1 {
+        right: 38px;
+        bottom: -180px;
+        font-size: 38px;
+    }
+    .home  .co-single-service-1 p, .home .co-tab-content-1 p, .home  .co-pricing-options-1 li, .home .co-section-title-1 p{
+        font-size:15px;
+        line-height: 26px;
+    }
+
+    .directory_btn{
+        width: 100%;
+    }
+    .post_btn a {
+        width: 28%;
+        margin-right: 18px;
+        margin-left: 18px;
+    }
+    .co-page-banner{
+        padding: 0px 0;
+    }
+    .co-page-banner h1 {
+        font-size: 79px;
+    }
+
+}
+
+/* Large Mobile :480px. */
+@media only screen and (max-width: 767px) {
+    .co-mission-section-1.polls_search_wrapper {
+        margin-top: 0;
+    }  
+    .co-single-service-1 {
+        /* padding: 20px; */
+        width: 33.33%;
+        border-top: 1px solid #dedede;
+    }
+    
+    .co-hero-slide-content-1 h1 {
+        font-size: 50px;
+    }
+
+    .co-hero-slide-content-1 {
+        margin-top: 0;
+    }
+    .col-sm-12.post_wrapper{
+        width: 100%;
+    }
+    .dashboard .navbar-collapse.in {
+        overflow-y: unset;
+    }
+    .dashboard .navbar-nav{
+        margin: 0 -15px;
+    }
+    .dashboard .nav > li {
+        display: inline-block;
+        width: 33%;
+        text-align: center;
+    }
+    .dashboard #navbar > ul > li > a {
+        margin-top: 0;
+        margin-right: 0;
+        padding: 14px 0;
+        border-radius: 0;
+    }
+    .dashboard .navbar-nav > li:hover .sub-menu{
+        text-align: left;
+        margin-top: 4px;
+    }
+    .dashboard .sub-menu{
+        width: 100%;
+    }
+    .dashboard .navbar-fixed-top .navbar-collapse {
+        max-height: 53px;
+    }
+    .dashboard .navbar-inverse .navbar-toggle{
+        background-color: #2196F3;
+        border: 1px solid #107BD1;
+    }
+    .comparison td:first-child, .comparison th:first-child {
+        display: none;
+    }
+    .comparison tbody tr:nth-child(odd) {
+        display:table-row;
+        background:#F7F7F7;
+    }
+    .comparison .row {
+        background:#FFF;
+    }
+    .comparison td, .comparison th {
+        border:1px solid #CCC;
+    }
+    .price-info {
+        border-top:0 !important;
+
+    }
+    .active-cyan-5 input[type="text"]{
+        width: 100%;
+    }
+    .blog_search2 {
+        position: relative;
+        top: -67px;
+        width: 100%;
+    }
+    .bus_com_hd h1{
+        right: 33px;
+        bottom: -110px;
+        font-size: 30px;
+    }
+    .bus_com_hd.partnerh1text h1 {
+        right: 33px;
+        bottom: -110px;
+        font-size: 30px;
+    }
+    .discount_link a {
+        margin-right: 4%;
+    }
+    .formstyle1 .form-label.lh-145{
+        line-height: 43px;
+    }
+    .view_btn {
+        font-size: 14px;
+    }
+    .benifits_wrapper {
+        bottom: -99px;
+    }
+    .eventtitlesection h1 {
+        font-size: 35px;
+    }
+    .blue_box {
+        font-size: 15px;
+    }.sociallink_wrp {
+        margin-top: 0;
+    }
+    .socialmedia_wrapper{
+        text-align:  center;
+    }
+    .formstyle1 .form-label{
+        margin-left: 0;
+    }
+    .fc.fc-unthemed th {
+        font-size: 13px;
+    }
+    .fc-day-number {
+        font-size: 13px;
+    }
+    .monthly_title {
+        font-size: 18px;
+        line-height: 26px;
+    }
+    .weekcontenttext.featuredlisting {
+        margin-bottom: 15px;
+    }
+    .featuredcontenttext p:last-child{
+        margin-bottom: 10px;
+    }
+    .featured_content img {
+        margin-right: 25px;
+    }
+
+    .featuredlisting {
+        margin-top: 20px;
+    }
+    .eventdetailbanner_wrapper .featuredlisting{
+        margin-top: 0;
+    }
+    .fillterresults_box {
+        padding: 64px 15px 30px;
+        cursor: pointer;
+        /* min-height: auto; */
+    }
+    .filter_wrp.slidefromright .fillterresults_box {
+        border-right: 0;
+    }
+    .filter_wrp.slidefromright .fillterresults_box {
+        width: 100%;
+        min-height: auto;
+    }
+    /* .filtersearch_listing_wrp{
+            width: 70%;
+    } */
+    /* .filtersearchstatus_wrp {
+            width: 30%;
+    } */
+
+    .events_tabbing li {
+        width: 180px;
+    }
+    .filter_wrp h2, .eventssearch_content h2 {
+        font-size: 22px;
+        line-height: 28px;
+    }
+    .event_txt,.eventb_txt {
+        font-size: 16px;
+    }
+    div.busnis_nav .dropdown-menu{    position: relative;    display: -webkit-inline-box;
+                                      height: 0px;
+                                      overflow: hidden;
+                                      width: 100%;     transition: all 0.5s;  }
+    div.busnis_nav .dropdown-menu{
+        border-top: 1px solid #f3e7e7;
+    }
+    div.busnis_nav li:hover > ul.dropdown-menu {
+        display: block;
+        overflow: visible;
+        height: auto;box-shadow: none;
+    }
+    div.busnis_nav .submenu_list li {background: white;}
+    .busnis_nav .submenu_list a{
+        padding: 5.5px 40px;
+        color: #3e3e3e;
+        font-size: 13px;
+        font-weight: 300;
+        line-height: 31px;
+        border-top: 1px solid rgba(218, 210, 210, 0.5);
+    }
+    .busnis_nav .submenu_list > li:last-child{
+        border-bottom: 1px solid rgba(218, 210, 210, 0.5);
+    }
+
+    .busnis_nav .submenu_list li.dropdown.dropdown-submenu a b {
+        margin-top: 6px;
+        margin-bottom: 10px;
+    }
+    .busnis_nav .submenu_list li.dropdown.dropdown-submenu .dropdown-menu li a{
+        padding: 0 80px 0 80px;
+    }
+    .submenu_list > li.dropdown:hover > a b {
+        transform: rotate(180deg);
+    } 
+    .dropdown-menu .dropdown.dropdown-submenu:hover  > a b {
+        transform: rotate(180deg);
+    }
+    .busnis_nav .submenu_list li .dropdown-menu li{
+        border-bottom: 1px solid #ededed;
+        color: #3e3e3e;
+        font-size: 13px;
+        font-weight: 300;
+        line-height: 24px;
+        opacity: 1;
+        padding: 8px 0px;
+    }
+    .busnis_nav .submenu_list li .dropdown-menu li:hover, .busnis_nav .submenu_list li:hover{
+        background-color: #f5f5f5;
+    }
+    .submenu_list li.dropdown a:hover{
+        background-color: #f5f5f5;	
+    }
+    div.busnis_nav .dropdown-menu li a {
+        background: transparent;
+        color: #3e3e3e;
+        display: block;
+        font-size: 13px;
+        font-weight: 300;
+        letter-spacing: 0.5px;
+        line-height: 24px;
+        text-transform: uppercase;
+        padding: 0px 40px 0px 60px;
+        text-align: left;
+        border-top: 0px;
+    }
+    .busnis_nav .submenu_list a .arrow_icon{
+        float: right;
+        margin-top: 9px;
+        font-size: 12px;
+    }
+    /*    .header-logo img{
+               width: 129px;
+           }*/
+    .header-logohome{
+        margin-left: 0px;
+    }
+    .nopadding{
+        padding:0px 15px;
+    }
+    .quote_wrapper {
+        width: 100%;
+    }
+    .section.position_relative .container {
+        width: 85%;
+    }
+    
+    .comissionsection1 {
+        margin-top: 200px;
+        padding-top: 100px;
+    }
+    .co-section-title-1.p_line h1 {
+        line-height: 36px;
+        font-size: 24px;
+    }
+    .assparner_block {
+        width: 20%;
+    }
+    .association .left_banner {
+        width: 290px;
+    }
+    .sunmenu_wrapper1{
+        margin-left: 290px;
+    }
+    .association_banner .navbar {
+        margin-left: 0;
+    }
+    .association .sunmenu_wrapper {
+        background-color: transparent;
+        margin-top: -1px;
+    }
+
+    .right_banner .navbar-header{
+        margin-left: 290px;
+        width: auto;
+    }
+
+    .home  .co-single-service-1 p, .home .co-tab-content-1 p, .home  .co-pricing-options-1 li, .home .co-section-title-1 p{
+        font-size:15px;
+        line-height: 26px;
+    }
+    .submenu_list li.active {
+        border-top: 0;
+    }
+    .submenu_list li:hover {
+        border-top: 0;
+    }
+    .submenu_list li {
+        border-top: 0;
+    }
+    .submenu_list {
+        float: left;
+        width: 100%;
+    }
+    .business_header {
+        width: 260px;
+    }
+    .header_homeicon{
+        width: 56px;
+    }
+    .business_menu > ul > li {
+        width: 56px;
+    }
+    .business_section .ico_hum{
+        width: 56px;
+    }
+    .navbar-header .pagetitle_wrapper {
+        display: block;
+    }
+    .sunmenu_wrapper .pagetitle_wrapper {
+        display: none;
+    }
+
+    .co-footer-social-1.fix {
+        text-align: center;
+        margin-top: 10px;
+    }
+
+    .duration{
+        margin-bottom: 20px;
+    }
+    .table, .table-cell {
+        height: auto;
+    }
+    #scrollUp {
+        display: none !important;
+    }
+    /*Buttons*/
+    .btn, .btn-sm, .btn-lg {
+        font-size: 12px;
+        /* height: 33px; */
+        padding: 4px 20px;
+    }
+    .btn-icon-right {
+        padding-right: 53px;
+    }
+    .btn-icon-right i {
+        right: 20px;
+    }
+    .btn-icon-left {
+        padding-left: 53px;
+    }
+    .btn-icon-left i {
+        left: 20px;
+    }
+
+    .menu-toggle {
+        margin: 25px 0;
+    }
+    /*Header Buttons*/
+    .header-section .btn, .header-social {
+        margin: 18px 50px 18px 0;
+    }
+    .header-search {
+        padding: 18px 50px 18px 0;
+    }
+    /*Mobile Menu Toggle*/
+    a.meanmenu-reveal {
+        top: -70px;
+        right: 23px !important;
+    }
+    .vdo .vdo_border{
+        width: 412px;
+    }
+    .vdo h3{
+        padding: 16px 24px;
+    }
+    .vdo .join_share{
+        width: 40%;
+    }
+    .vdo .join_share{
+        width: 27%;
+    }
+    .video_page h2, .video_page h1, .video_page p{
+        /*text-align:center;*/
+        padding: 0px 0px 0px 0px;
+        text-align: justify;
+    }
+    .advertisment_content{
+        margin: 0 auto;
+    }
+    .recent_video .inner_video{
+        margin-top:20px;
+    }
+    .col-pd-vdo{
+        margin:0;
+    }
+
+    .content ul li{
+        width: 100%;
+    }
+    .single-content .content-overlay{
+        width: 65%;
+        left: 77px;
+    }
+    .directory .filters li{
+        display:block;
+    }
+    .blog_post_title .blog_read{
+        width: 46%;
+    }
+    .blog_search{
+        display:none;
+    }
+    .contact-form .btn-text{
+        width: 60%;
+    }
+    #btnContainer{
+        display: none;
+    }
+    .co-footer-widget-1 {
+        margin-top: 20px;
+        float: left;
+        width: 100%;
+    }
+    .mc-field-group{
+        margin-top: 20px;
+    }
+    .ecai_blog h1{
+        font-size: 20px;
+    }
+    .ecia_pillar{
+        padding: 30px 0px;
+    }
+    .awarded h3{
+        font-size:20px;
+    }
+    .info_form .info_btn{
+        width: 42%;
+    }
+    .ecai_who_we_are .area-bg::after {
+        background: rgba(0, 0, 0, 0) linear-gradient(120deg, transparent 0%, #1193d4 50%) repeat scroll 0 0;
+    }
+    .vdo p{
+        padding: 20px 7px;
+    }
+    .info_form .control-label{
+        width: 100%;
+        font-size: 14px;
+    }
+
+    .post_btn a{
+        width: 42%;
+        padding: 10px 0px;
+        margin-right: 20px;
+        margin-left: 20px;
+    }
+    .membership_btn a{
+        width: 47%;
+    }
+    .business_section .header-logo{
+        margin: 0 0px;
+    }
+    .business_menu{
+        display: block!important; 
+        margin-right: 0;
+    }
+    .mean-nav li a img{
+        display: none;
+    }
+    .mean-nav > ul > li > a i{
+        display: none;
+    }
+
+    .pillar .navbar{
+        background: rgba(117, 117, 117, 0.8);
+        margin-bottom: 0px;
+    }
+    .partner .navbar{
+        background: #F09A1B;
+        margin-bottom: 0px;
+    }
+/*    .in_video .navbar, .in_bs .navbar{
+        background:rgba(33, 150, 243, 0.9);
+        margin-bottom: 0px;
+    }*/
+    .agency .navbar{
+        background: #5EB761;
+    }
+    .pillar .navbar-toggle, .partner .navbar-toggle, .in_video .navbar-toggle, .in_bs .navbar-toggle, .agency .navbar-toggle, .in_video .navbar-toggle, .individual_royal .navbar-toggle{
+        position: relative;
+        float: right;
+        margin-right: 24px;
+        padding: 9px 10px;
+        margin-top: 8px;
+        margin-bottom: 8px;
+        background-image: none;
+        border-radius: 0px; 
+    }
+    .sunmenu_wrapper1 h1 {
+        font-size: 75px;
+    }
+    .sunmenu_wrapper1 {
+        padding: 130px 0 130px 50px;
+        font-size: 15px;
+    }
+    .sunmenu_wrapper1.rai_wrapper {
+        padding: 130px 0 130px 50px;
+    }
+    .association .navbar-toggle{
+        position: relative;
+        float: right;
+        margin-right: 15px;
+        padding: 18px 10px;
+        margin-top: 8px;
+        margin-bottom: 8px;
+        background-image: none;
+        border-radius: 0px;
+    }
+    .pillar .navbar-toggle .icon-bar, .partner .navbar-toggle .icon-bar, .in_video .navbar-toggle .icon-bar, .in_bs .navbar-toggle .icon-bar,.in_video .navbar-toggle .icon-bar, .agency .navbar-toggle .icon-bar, .association .navbar-toggle .icon-bar, .individual_royal .navbar-toggle .icon-bar{
+        display: block;
+        width: 25px;
+        height: 3px;
+        border-radius: 0px;
+        background: #fff;
+    }
+    .pillar .sunmenu_wrapper, .partner .sunmenu_wrapper, .in_video .sunmenu_wrapper, .in_bs .sunmenu_wrapper, .in_video  .sunmenu_wrapper{
+        padding: 0px;
+    } 
+    .pillar .sunmenu_wrapper #navbar, .partner .sunmenu_wrapper #navbar, .in_video .sunmenu_wrapper #navbar, .in_bs .sunmenu_wrapper #navbar, .in_video .sunmenu_wrapper #navbar{
+        padding: 0px;
+    }
+    .submenu_list li a{
+        padding: 6px 25px 6px 24px;
+    }
+    .submenu_list li{
+        display: block;
+    }
+    .submenu_list{
+        margin: 0px;
+        background: #7b7b7b;
+    }
+    .award p{
+        padding: 0px;
+    }
+
+    .profileimage_wrapper{
+        top: 102px;
+    }
+    .business_banner{
+        padding: 100px 0px!important;
+    }
+    .business_banner .user_imag2{
+        height: 150px;
+        width: 150px;
+        bottom: 33px;
+    }
+    .business_banner .user_imag, .business_banner .user_images{
+        left: 35px;
+        top: 15px;
+        height: 220px;
+        width: 220px;
+    }
+    .innerbusiness_banner .user_images{
+        height: 150px;
+        width: 150px;
+        top: 22px;
+        left: 53px;
+    }
+    .business_banner .user_img{
+        height: 150px;
+        width: 150px;
+        bottom: -34px;
+    }
+    .profileimages_wrapper{
+        width: 290px;
+    }
+    .pagetitle_wrapper{
+        line-height: 13px;
+        width: 290px;
+    }
+    .vdo_cum_hd h1{
+        top: 19px;
+    }
+    .ribbon{
+        height: 185px;
+        width: 147px;
+    }
+
+    .ribbon p{
+        font-size: 15px;
+        line-height: 25px;
+    }
+    .arrowup{
+        /*display: none; Removed due to pillar section ribbon comes yellow in responsive */
+        border-left: 65px solid transparent;
+        border-right: 70px solid transparent;
+        border-bottom: 34px solid white;
+    }
+    .business_banner::before, .business_banner::after{
+        font-size: 40px;
+    }
+    .innerbusiness_banner::before, .innerbusiness_banner::after{
+        font-size: 40px;
+    }
+
+    .business_banner .user_images{
+        height: 220px;
+        width: 220px;
+        top: 60px;
+    }
+    .innerbusiness_banner .user_images{
+        height: 150px;
+        width: 150px;
+        bottom: -41px;
+    }
+    .header-logo i{
+        top: 6px;
+    }
+
+    .co-blog-content .co-blog-meta{
+        display: inline-block;
+    }
+    .display{
+        display: none;
+    }
+    .second_display{
+        display: block;
+    }
+    .submenu_list li{
+        width:100%;
+        text-align: left;
+    }
+    .co-mission-section-1{
+        margin-top: 70px;
+        z-index: 1;
+    }
+    .blog_search1 input{
+        display: inline-block;
+    }
+    .directory_btn{
+        width: 100%;
+    }
+    .co-page-banner{
+        padding: 0px 0px;
+    }
+    .co-page-banner h1{
+        padding-top: 0px;
+        padding-bottom:0px;
+        line-height:0px;
+    }
+
+    .individual_royal .navbar{
+        background: rgba(33, 150, 243, 0.9);
+        margin-bottom: 0px;
+    }
+    .business_banner .indi_images{
+        height: 100px;
+        width: 100px;
+        bottom: -45px;
+        left: 0;
+    }
+    .individual_royal .bus_com_hd h1{
+        right: 0;
+        bottom: 40px;
+        font-size: 34px;
+    }
+    .individual_royal .bus_com_hd p{
+        right: 0;
+        top: 115px;
+    }
+    .filtersearch_blk span:first-child{
+        font-size: 11px;
+    }
+    .ps-radio label:after{
+        width: 26px;
+        height: 26px;
+    }
+    .ps-radio label:before{
+        height: 20px;
+        width: 20px;
+    }
+    .ps-radio input[type=radio]:checked ~ label:before{
+        width: 17px;
+        height: 17px;
+    }
+    .ps-radio--inline{
+        margin-right: 21px;
+    }
+    
+    .filtersearch_blk {
+        width: 90px;
+    }
+
+    .mt-280{
+        margin-top: 280px;
+    }
+
+
+
+
+}
+@media only screen and (max-width: 693px) {
+
+    .discount_link a {
+        margin-right: 1%;
+        padding: 15px 15px;
+    }
+    .dashboard .nav > li {
+        width: 32.5%;
+    }
+}
+
+@media only screen and (max-width: 660px) {
+    .sunmenu_wrapper1.rai_wrapper {
+        padding: 119px 0 119px 50px;
+    }
+    .dashboard .sidebar {
+        width: 260px;
+    }
+    .dashboard .main.margin-left{
+        margin-left: 260px;
+    }
+    .dashboard .sidebar_navigation .nav > li > a {
+        padding: 15px 5px;
+        font-size: 14px;
+    }
+    .dashboard .menulist_wrp {
+        font-size: 13px;
+    }
+}
+@media (max-width: 639px) {
+    .comparison .price-buy {
+        padding:5px 10px;
+    }
+    .comparison td, .comparison th {
+        padding:10px 5px;
+    }
+    .comparison .hide-mobile {
+        display:none;
+    }
+    .comparison .price-now span {
+        font-size:16px;
+    }
+
+    .comparison .price-small {
+        font-size: 16px !important;
+        top: 0;
+        left: 0;
+    }
+    .comparison .qbse, .comparison .qbo {
+        font-size:12px;
+        padding:10px 5px;
+    }
+    .comparison .price-buy {
+        margin-top:10px;
+    }
+    .compare-heading {
+        font-size:13px;
+    }
+}
+@media only screen and (max-width: 600px) {
+    .dashboard .sub-menu {
+        width: 220px;
+        left: 0;
+        right: unset !important;
+    }
+    .marketing_dropdown{
+        display: block;
+    }
+    .dropdown.marketing_dropdown  .btn.btn-primary.dropdown-toggle {
+        background-color: #fff;
+        color: rgb(51, 51, 51);
+        font-weight: normal;
+        text-transform: uppercase;
+        border: 0;
+        font-size: 15px;
+        text-align: left;
+        width: 100%;
+        height: auto;
+        padding: 12px 15px;
+    }
+    .post_btn{
+        display: none;
+    }
+    .dropdown.marketing_dropdown {
+        margin: 0px 8px;
+        margin-top: 30px;
+        margin-bottom: 30px;
+    }
+    .dropdown.marketing_dropdown .dropdown-menu > li > a {
+        padding: 6px 20px;
+    }
+    .dropdown.marketing_dropdown  .btn.btn-primary.dropdown-toggle .icons-chevron-down{
+        float: right;
+        padding-top: 4px;
+    }
+    .dropdown.marketing_dropdown  .dropdown-menu {
+        width: 100%;
+        text-transform: uppercase;
+        border-radius: 0;
+        border: 0;
+        margin-top: 1px;
+    }
+    .b_event_list li {
+        display: inline-block;
+        width: 100%;
+        margin-bottom: 5px;
+    }
+    .discount_link a {
+        font-size: 13px;
+    }
+    .skills_wrapper,.qualifications_wrapper {
+        font-size: 16px;
+    }
+    .skills_listing{
+        margin-bottom: 20px;
+    }
+    .skills_listing li:first-child, .qualifications_wrapper li:first-child{
+        width: 100%;
+        font-size: 18px;
+        margin: 0 0 10px 0;
+    }
+    h1.h1jobtitle_style {
+        line-height: 65px;
+    }.eventhosted_img {
+        width: 65px;
+        height: 65px;
+    }
+    .eventtitlesection h1 {
+        font-size: 35px;
+    }
+    .eventgallery_wrapper .navigation_block {
+        width: 100%;
+        top: -10px;
+    }
+    .eventgallery_wrapper .navigation_block .next.slick-arrow{
+        float: right;
+    }
+    .coclientslider-1 .slick-slide img {
+        width: 120px;
+        height: 120px;
+    }
+    .fc.fc-unthemed th {
+        font-size: 12px;
+    }
+    .fc-day-number {
+        font-size: 12px;
+    }
+    .fc-prev-button.fc-button span:last-child{
+        display: none;
+        margin-right: 0;
+    }
+    .fc-prev-button.fc-button span.fc-icon {
+        margin-right: 0 !important;
+    }
+    .fc-next-button.fc-button span.fc-icon {
+        margin-left: 0 !important;
+    }
+    .fc-next-button.fc-button span:first-child{
+        display: none;
+    }
+
+    .fc.fc-unthemed th {
+        font-size: 12px;
+    }
+    .fc-day-number {
+        font-size: 12px;
+    }
+    .fc.fc-unthemed th span{
+        white-space: nowrap; 
+        width: 40px; 
+        overflow: hidden;
+        text-overflow: ellipsis; 
+        float: left;
+    }
+}
+/* small mobile :320px. */
+@media only screen and (max-width: 580px) {
+    .eventssearch_content h2 {
+        font-size: 20px;
+        text-align: left;
+    }
+    .jobsearch_wrapper {
+        width: 100%;
+    }
+    .job_tabbings_blk span:last-child{
+        font-size: 13px;
+    }
+    .job_tabbings_blk{
+        padding: 12px 10px;
+    }
+    .events_tabbing li a {
+        font-size: 13px;
+    }
+    .events_tabbing li i {
+        font-size: 20px;
+        margin-top: 0px;
+    }
+    .events_tabbing li {
+        width: 150px;
+    }
+    .getstarted_wrp {
+        padding: 32px 8px;
+    }
+    .fillterresults_box {
+        padding: 40px 10px;
+        cursor: pointer;
+    }
+    .fillterresults_box ,.filter_wrp, .getstarted_wrp{
+        min-height: 210px;
+    }
+}
+@media only screen and (max-width: 565px) {
+    .discount_link a {
+        margin-right: 1%;
+        padding: 12px 12px;
+    }
+}
+@media only screen and (max-width: 560px) {
+    a.btnstyle1, .btnstyle1 {
+        font-size: 14px;
+    }
+    a.btnstyle1:hover, .btnstyle1:hover {
+        color: rgb(68, 68, 68);
+    }
+    .dashboard p {
+        font-size: 13px;
+        line-height: 24px;
+    }
+    .blog_footer a {
+        font-size: 18px;
+    }
+    .post_footer a {
+        padding: 18px 20px;
+        margin-right: 0;
+    }
+    .filtersearch_listing.filtersearch1_listing .filtersearch_blk span:first-child {
+        font-size: 12px;
+    }
+
+    .bus_com_hd.partnerh1text h1 {
+        left: 310px;
+        bottom: -115px;	
+        font-size: 18px;
+    }
+    .eventhosted_company {
+        font-size: 14px;
+    }
+    .eventtitlesection h1 {
+        font-size: 30px;
+    }
+    .featured_content img {
+        width: 180px;
+    }
+    .featured_title {
+        font-size: 18px;
+    }
+    h3 {
+        font-size: 16px;line-height: 21px;
+    }
+    .featuredcontenttext {
+        font-size: 13px;
+    }
+    .featured_footer {
+        font-size: 12px;
+    }
+    .featured_footer .col-md-3 {
+        width: 100%;
+        min-height: 30px;
+        margin-bottom: 10px;
+    }
+    .featured_footer .col-md-3:nth-child(3) {
+        margin-bottom: 10px;
+    }
+    .filtersearchstatus_wrp {
+        width: 100%;
+    }
+    .filtersearch_listing_wrp {
+        width: 100%;
+    }
+    .eventssearch_desktop{
+        display: none;
+    }
+    .filter_wrp.slidefromright {
+        width: 100%;
+        height: 250px;
+        overflow-y: scroll;
+    }
+    .filtersearchstatusreport {
+        padding-bottom: 20px;
+    }
+    .filtersearch_input {
+        margin-bottom: 10px;
+        position: relative;
+    }
+    .fillterresults_box.fullwidth{
+        border-right: 8px solid rgb(33, 150, 243);
+    }
+    .filtersearchstatus_wrp {
+        padding-top: 30px;
+    }
+    .filtersearch_blk {
+        margin-bottom: 20px;
+    }
+    .filter_wrp.slidefromright .fillterresults_box{
+        border-right: 0;
+        width: 100%;
+    }
+    .filter_wrp, .getstarted_wrp {
+        width: 50%;
+    }
+    .eventssearch_mobile h2 {
+        margin-bottom: 25px;
+    }
+    .eventssearch_mobile{
+        display: block;
+    }
+    
+    .comissionsection1 {
+        margin-top: 100px;
+        padding-top: 100px;
+    }
+    .co-section-title-1.p_line h1 {
+        line-height: 32px;
+        font-size: 22px;
+    }
+    .directory_btn {
+        width: 300px;
+    }
+
+    .vdo .vdo_border {
+        width: 263px;
+    }
+    .vdo h3{
+        font-size:16px;
+    }
+    .vdo .join_share {
+        width: 52%;
+    }
+    .main_vedio{		
+        padding:20px 0px;
+    }
+    .video_page h1{
+        font-size:19px;
+    }
+    .advertisment_content{
+        width:100%;
+    }
+    .single-content .content-overlay {
+        width: 92%;
+        left: 23px;
+    }
+    .blog_post_title h2{
+        font-size:15px;
+    }
+    .blog_post_title .blog_read {
+        width: 70%;
+    }
+
+    .header-section .btn{
+        margin: 18px 34px 18px 0;
+        font-size:8px;
+    }
+    /*  .pt-100 {
+         padding-top: 27px;
+     } */
+    .post_btn a {
+        width: 44%;
+        font-size: 13px;
+        margin-left: 6px;
+        margin-right: 8px;
+        margin-bottom: 21px;
+    }
+
+    .main-menu > ul > li{
+        width: 56px;
+        text-align: right;
+    }
+    /*     .profileimages_wrapper{
+            width: 254px;
+        } */
+    .business_banner .user_imag, .business_banner .user_images{
+        left: 35px;
+        top: 62px;
+    }
+    .innerbusiness_banner .user_images{
+        left: 48px;
+        top: 16px;
+        height: 160px;
+        width: 160px;
+    }
+    .co-hero-slide-content-1 h1{
+        left: 310px;
+        bottom: -115px;
+        font-size: 45px;
+    }
+
+    .business_h1_img .co-hero-slide-content-1 h1 {
+        left: 265px;
+    }
+    .pagetitle_wrapper{
+        width: 290px;
+        font-size: 29px;
+    }
+    .assparner_block {
+        width: 90%;
+    }
+    .assparner_block img {
+        height: 60px;
+    }
+    .individual_royal .bus_com_hd h1{
+        right: 0;
+        bottom: 46px;
+        font-size: 34px;
+    }
+    .individual_royal .bus_com_hd p{
+        right: 0;
+        bottom: 48px;
+        font-size: 13px;
+    }
+
+
+}
+@media only screen and (max-width:554px){
+    .sunmenu_wrapper1 {
+        padding: 119px 0 119px 50px;
+    }
+    .sunmenu_wrapper1.rai_wrapper {
+        padding: 108px 0 108px 50px;
+    }
+}
+@media only screen and (max-width:528px){
+
+    .sunmenu_wrapper1.retailireland_wrapper {
+        padding: 144px 0 144px 12px;
+    }
+    .jobsbanner_wrapper {
+        height: 358px;
+        background-size: 1159px auto;
+    }
+    .inputlisttypejob_radio li {
+        display: inline-block;
+        margin-right: 12px;
+    }
+    .eventtitlesection h1 {
+        font-size: 28px;
+    }
+    .sunmenu_wrapper1 {
+        padding: 133px 0 133px 50px;
+        font-size: 15px;
+    }
+    .sunmenu_wrapper1 h1 {
+        font-size: 50px;
+    }
+    .post_btn a{
+        font-size: 13px;
+        margin-left: 6px;
+        margin-right: 8px;
+        margin-bottom: 21px;
+    }
+    .sunmenu_wrapper1.rai_wrapper {
+        padding: 122px 0 122px 50px;
+        font-size: 15px;
+    }
+}
+
+@media only screen and (max-width:489px){
+
+    .blogtitle {
+        float: left;
+        margin-top: 7px;
+    }
+
+    .postdate_1 {
+        font-size: 10px;
+        color: #2196F3;
+        display: block;
+    }
+    .tabbingeventcontentfilter_wrp,.tabbingeventcontent_wrp {
+        width: 100%;
+        min-height: 230px;
+    }
+    .circle_blk {
+        width: 80px;
+        height: 80px;
+        padding: 28px 0;
+        margin-right: 15px;
+    }
+    .resgister_ttle {
+        font-size: 17px;
+    }
+    .fc-prev-button.fc-button span.fc-icon,.fc-next-button.fc-button span.fc-icon {
+        font-size: 20px;
+    }
+    .monthly_title {
+        font-size: 16px;
+        line-height: 30px;
+    }
+    .featuredcontenttext > span {
+        margin-top: 15px;
+        float: left;
+        width: 100%;
+    }
+    .featured_content img {
+        width: 100%;
+        margin-right: 0;
+    }
+    .paddingtop140{
+        padding-top: 70px;
+    }
+    .paddingbottom140{
+        padding-bottom: 70px;
+    }
+    .paddingbottom130{
+        padding-bottom: 70px;
+    }
+    .paddingbottom70{
+        padding-bottom: 0;
+    }
+    .paddingtop90{
+        padding-top: 20px;
+    }
+    .association .business_banner .user_imag1 {
+        height: 210px;
+        width: 210px;
+    }
+    .association .left_banner {
+        width: 244px;
+    }
+    .partner_block {
+        padding: 48px 0 47px 0;
+    }
+    .business_header {
+        width: 215px;
+        text-align: left;
+    }
+    .sunmenu_wrapper1 {
+        margin-left: 244px;
+    }
+    .right_banner .navbar-header {
+        margin-left: 244px;
+    }
+    .sunmenu_wrapper1 {
+        padding: 144px 0 144px 12px;
+    }
+    .business_section .header-logo {
+        padding: 5px 8px;
+    }
+    .header_homeicon, .business_section .ico_hum {
+        padding: 15px 10px;
+        width: 40px;
+    }
+    .profileimages_wrapper{
+        width: 244px;
+    }
+    .business_banner .user_imag, .business_banner .user_images{
+        left: 12px;
+        top: 15px;
+        height: 220px;
+        width: 220px;
+    }
+    .business_h1_img.business_banner .user_images{
+        top: 100px;	
+    }
+    .bus_com_hd.partnerh1text h1 {
+        left: 270px;
+    }
+    .innerbusiness_banner .user_images{
+        left: 30px;
+        top: 15px;
+        height: 160px;
+        width: 160px;
+    }
+    .co-hero-slide-content-1 h1{
+        font-size: 35px;
+    }
+    .pagetitle_wrapper{
+        width: 221px;
+        font-size: 29px;
+    }
+    .post_btn a{
+        font-size: 13px;
+        margin-left: 6px;
+        margin-right: 8px;
+        margin-bottom: 21px;
+    }
+    .individual_royal .bus_com_hd h1{
+        right: 0;
+        bottom: 45px;
+        font-size: 34px;
+    }
+    .individual_royal .bus_com_hd p{
+        right: 0;
+        bottom: 46px;
+        font-size: 13px;
+    }
+    .business_banner .indi_images{
+        left: 0;
+    }
+    .filtersearch_blk {
+        width: 78px;
+    }
+}
+@media only screen and (max-width:487px){
+    
+    .h1jobtitle_style .eventhosted_img {
+        margin-right: 30px;
+    }
+    .eventtitlesection h1 {
+        font-size: 28px;
+    }
+    .events_tabbing li a {
+        font-size: 13px;
+    }
+    .events_tabbing li i {
+        font-size: 18px;
+        margin-top: 0px;
+    }
+    .events_tabbing li {
+        width: 120px;
+    }
+    .portifolio_title {
+        text-align: left;
+        margin-left: 20px;
+        font-size: 24px;
+    }
+}
+@media only screen and (max-width:480px){
+    .agency .co-hero-slide-content-1.bus_com_hd h1 {
+        left: 265px;
+        /*bottom: -120px;*/
+        top: 20px;
+        font-size: 18px;
+    }
+    .bus_com_hd.partnerh1text h1 {
+        left: 265px;
+        bottom: -120px;
+    }
+    .business_banner {
+        padding: 110px 0px !important;
+    }
+}
+@media only screen and (max-width:475px){
+    .job_tabbings_blk span:last-child {
+        font-size: 12px;
+    }
+}
+@media only screen and (max-width:470px){
+    .sunmenu_wrapper1.sfa_wrapper {
+        padding: 133px 0 133px 12px;
+    }
+}
+@media only screen and (max-width:460px){
+    .listing_img {
+        margin-right: 0;
+        width: 100%;
+        margin-bottom: 12px;
+		margin-top: 35px;
+    }
+    .listing_img img {
+        width: 100%;
+    }
+    .jobsbanner_wrapper {
+        height: 400px;
+        background-size: 1292px auto;
+    }
+    .inputlisttypejob_radio {
+        line-height: 30px;
+    }
+    .inputlisttypejob_radio li {
+        display: block;
+    }
+    .h1jobtitle_style .eventhosted_img {
+        margin-right: 20px;
+    }
+    .eventtitlesection h1 {
+        font-size: 26px;
+    }
+    .whitebox_wrp{
+        float: unset;
+    }
+    .icon_wrapper {
+        width: 100px;
+    }
+    .home  .co-single-service-1 p, .home .co-tab-content-1 p, .home  .co-pricing-options-1 li{
+        font-size:13px;
+        line-height: 25px;
+    }
+    .header-logohome {
+        width: 58px;
+    }
+    .co-hero-slide-content-1 {
+        margin-top: 0;
+        margin-bottom: 60px;
+    }
+    .profileimages_wrapper{
+        width: 245px;
+    }
+    .business_banner .user_imag, .business_banner .user_images{
+        left: 18px;
+        top: 36px;
+        height: 210px;
+        width: 210px;
+    }
+    .innerbusiness_banner .user_images{
+        left: 30px;
+        top: 33px;
+        height: 160px;
+        width: 160px;
+    }
+    .co-hero-slide-content-1 h1{
+        font-size: 40px;
+    }
+    .pagetitle_wrapper{
+        width: 221px;
+        font-size: 29px;
+    }
+    .post_btn {
+        margin-top: 22px;
+    }
+    .post_btn a {
+        font-size: 13px;
+        margin-left: 6px;
+        margin-right: 8px;
+        margin-bottom: 21px;
+    }
+    .individual_royal .bus_com_hd h1{
+        right: 0;
+        bottom: 60px;
+        font-size: 34px;
+    }
+    .individual_royal .bus_com_hd p{
+        right: 0;
+        bottom: 67px;
+        font-size: 13px;
+    }
+
+
+}
+@media only screen and (max-width:458px){
+    .sunmenu_wrapper1.associationhome_wrapper {
+        padding: 133px 0 133px 12px;
+    }
+}
+@media only screen and (max-width:445px){
+    .job_tabbings_blk span:last-child {
+        font-size: 11px;
+    }
+    .eventssearch_content h2 {
+        font-size: 16px;
+        line-height: 8px;
+    }
+    .createevent_listing li {
+        font-size: 12px;
+        margin-right: 15px;
+    }
+    .createevent_listing li i {
+        font-size: 20px;
+    }
+    .sunmenu_wrapper1.isme_wrapper {
+        padding: 133px 0 133px 12px;
+    }
+    .sunmenu_wrapper1.sfa_wrapper {
+        padding: 133px 0 133px 12px;
+    }
+}
+
+@media only screen and (max-width:414px){
+    .sunmenu_wrapper1.retailireland_wrapper {
+        padding: 142px 32px 142px 12px;
+    }
+    .sunmenu_wrapper1.associationhome_wrapper {
+        padding: 142px 0 142px 12px;
+    }
+    .sunmenu_wrapper1.isme_wrapper {
+        padding: 142px 0 142px 12px;
+    }
+    .sunmenu_wrapper1.sfa_wrapper {
+        padding: 142px 0 142px 12px;
+    }
+    .md-form.md-form1 .file-field {
+        margin-right: 25px;
+    }
+    .job_tabbings_blk {
+        min-height: 95px;  
+        padding: 8px 10px;
+        vertical-align: top;
+    }
+    .job_tabbings_blk.signre_tabbings_blk{
+        min-height: auto;
+    }
+    .job_tabbings_blk span:last-child {
+        line-height: 17px;
+        display: block;
+        margin-top: 5px;
+    }
+    .h1jobtitle_style .eventhosted_img {
+        margin-right: 20px;
+    }
+    .eventtitlesection h1 {
+        font-size: 22px;
+    }
+    .loginhere {
+        margin-right: 8px;
+        line-height: 30px;
+        font-size: 12px;
+    }
+    .fc.fc-unthemed th span{
+        white-space: nowrap; 
+        width: 30px; 
+        overflow: hidden;
+        text-overflow: ellipsis; 
+        float: left;
+    }
+    .sunmenu_wrapper1 h1 {
+        font-size: 34px;
+        line-height: 60px;
+    }
+    .sunmenu_wrapper1 {
+        padding: 142px 0 142px 12px;
+    }
+    .sunmenu_wrapper1.rai_wrapper {
+        padding: 131px 0 131px 12px;
+    }
+    .dis_line .dropdown-menu{
+        top: 50px;
+    }
+
+
+    .business_section .header-logo img{
+        margin: 0px 0;
+    }
+    .main-menu > ul > li{
+       
+        text-align: right;
+    }
+    .business_section .header-logo img {
+        height: 34px;
+    }
+    .business_section .header-logo {
+        padding: 8px 6px;
+    }
+    .business_menu > ul > li > a {
+        padding: 15px 0px;
+    }
+    .business_menu > ul > li > a i {
+        font-size: 20px;
+    }
+    .profileimages_wrapper {
+        width: 244px;
+    }
+    .business_banner .user_imag, .business_banner .user_images{
+        left: 18px;
+        top: 251px;
+        height: 210px;
+        width: 210px;
+    }
+    .innerbusiness_banner .user_images{
+        left: 26px;
+        top: 36px;
+        height: 160px;
+        width: 160px;
+    }
+    .co-hero-slide-content-1 h1{
+        right: 20px;
+        font-size: 32px;
+    }
+
+    .pagetitle_wrapper{
+        width: 184px;
+        font-size: 29px;
+    }
+    .post_btn {
+        margin-top: 22px;
+    }
+    .post_btn a {
+        font-size: 13px;
+        margin-left: 6px;
+        margin-right: 8px;
+        margin-bottom: 21px;
+    }
+
+    .co-page-banner h1 {
+        font-size: 63px;
+        text-align: center;
+        padding-top: 7px;
+        padding-bottom: 40px;
+    }
+    .co-page-banner {
+        padding: 0px 0;
+    }
+    .individual_royal .bus_com_hd h1{
+        right: 0;
+        bottom: 60px;
+        font-size: 34px;
+    }
+    .individual_royal .bus_com_hd p {
+        right: 0;
+        bottom: inherit;
+        font-size: 13px;
+        top: 44px;
+    }
+
+    .p_event_u_list li{
+        font-size: 13px;
+    }
+    .index_page_gpostion{
+        bottom: -92px!important;
+    }
+
+}
+@media only screen and (max-width: 396px){
+
+    .events_tabbing li a {
+        padding: 15px 6px;
+    }
+    .events_tabbing li {
+        width: 94px;
+    }
+    .events_tabbing li i {
+        font-size: 16px;
+        margin-top: 2px;
+    }
+    .events_tabbing li a {
+        font-size: 11px;
+    }
+    .getstarted_wrp {
+        padding: 8px 8px;
+    }
+}
+@media only screen and (max-width: 381px){
+    .socialmedia_wrapper .mr-8 {
+        margin-right: 5px;
+    }
+    .business_h1_img.business_banner .user_images {
+        top: 95px;
+    }
+    .business_h1_img .co-hero-slide-content-1.bus_com_hd h1 {
+        left: 210px;
+        font-size: 14px;
+        top: 110px;
+    }
+}
+@media only screen and (max-width: 380px){
+    .section.position_relative.gposition_relative {
+        bottom: -208px;
+    }
+    .business_banner .user_imag, .business_banner .user_images{
+        left: 26px;
+        top: 36px;
+        height: 160px;
+        width: 160px;
+    }
+    .business_banner {
+        padding: 80px 0px !important;
+    }
+    .bus_com_hd.partnerh1text h1 {
+        left: 210px;
+        bottom: -90px;
+        font-size: 14px;
+    }
+    .sunmenu_wrapper1.retailireland_wrapper {
+        padding: 142px 50px 142px 12px;
+    }
+    .comissionsection1 {
+        margin-top: 70px;
+        padding-top: 100px;
+    }
+    .section.position_relative {
+        bottom: -348px;
+    }
+    .co-single-service-1 {
+        width: 50%;
+    }
+    .association .business_banner .user_imag1 {
+        height: 150px;
+        width: 150px;
+    }
+    .association .left_banner {
+        width: 195px;
+    }
+    .partner_block {
+        padding: 70px 0 61px 0;
+    }
+
+    .association_banner .navbar {
+        margin-left: 0;
+    }
+    .sunmenu_wrapper1 {
+        margin-left: 195px;
+    }
+    .right_banner .navbar-header {
+        margin-left: 195px;
+    }
+
+    .business_header {
+        width: 165px;
+        text-align: left;
+    }
+    .main-menu.text-black > ul > li > a {
+        text-align: right;
+    }
+    .business_section .header-logo {
+        padding: 8px 3px;
+    }
+    .header_homeicon {
+        padding: 15px 6px 15px 0;
+        width: 30px;
+    }
+    .business_section .ico_hum {
+        padding: 15px 0 15px 6px;
+        width: 30px;
+    }
+    .main-menu > ul > li {
+       /* width: 30px;*/
+    }
+    .profileimages_wrapper{
+        width: 195px;
+    }
+    .business_banner .user_imag, .business_banner .user_images, .innerbusiness_banner .user_images{
+        left: 18px;
+        top: 36px;
+    }
+    /*    .co-hero-slide-content-1 h1{
+            right: 0px;
+            font-size: 14px;
+        }*/
+    .agency .co-hero-slide-content-1.bus_com_hd h1{
+        left: 210px;
+        font-size: 14px;
+        top: 110px;
+    }
+    .pagetitle_wrapper{
+        width: 184px;
+        font-size: 29px;
+    }
+    .post_btn a{
+        font-size: 13px;
+        margin-left: 6px;
+        margin-right: 8px;
+        margin-bottom: 21px;
+    }
+    .post_btn {
+        margin-top: 22px;
+    }
+    .co-page-banner {
+        padding: 0px 0;
+    }
+    .co-page-banner h1 {
+        font-size: 44px;
+        text-align: center;
+        padding-top: 7px; 
+        padding-bottom: 40px;
+    }
+
+    .dis_line .dropdown-menu{
+        min-width: 157px;
+    }
+    .dis_line .dropdown-menu > li > a,.dis_line .dropdown-menu > li > .subdropdownmenu li a{
+        font-size: 10px;
+    }
+    .individual_royal .bus_com_hd h1{
+        right: 0;
+        bottom: 60px;
+        font-size: 34px;
+    }
+    .individual_royal .bus_com_hd p{
+        right: 0;
+        bottom: 67px;
+        font-size: 13px;
+    }
+
+}
+@media only screen and (max-width: 378px){
+    .h1jobtitle_style .eventhosted_img {
+        margin-right: 18px;
+    }
+    .eventtitlesection h1 {
+        font-size: 18px;
+    }
+    .socialmedia_wrapper .mr-8 {
+        margin-right: 0;
+    }
+}
+@media only screen and (max-width: 373px){
+    .google_btn, .twitter_btn {
+        margin-bottom: 10px;
+    }
+}
+@media only screen and (max-width: 368px) {
+    .assparner_block {
+        margin-left: 0;
+   
+.association .left_banner{ width:100%; overflow:hidden;}
+.association_banner .navbar{ margin-left:0px;}
+.association .business_banner .user_imag1{ width:100px; height:100px; margin-top:10px;}
+.right_banner .navbar-header{ margin-top:30px;}
+.partner_block{ padding:0px 0px;}
+.association_banner h4{ font-size:14px; padding-top:10px;}
+.left_footer{ font-size:12px;}
+.sunmenu_wrapper1.retailireland_wrapper{ padding:20px;}
+.right_banner .navbar-header{ margin-left:0px; background:none;}
+.right_banner .submenu_list{ position:absolute; left:0px;}
+.sunmenu_wrapper1{ margin:0px;}
+.left_footer{ height:auto; padding:20px 10px 10px 10px;}
+.sunmenu_wrapper1.retailireland_wrapper{ float: left; width: 100%; text-align: center; overflow:hidden; padding:10px;}
+.experience_banner .submenu_list{ float:left;}     margin-right: 0;
+        width: auto;
+    }
+
+}
+@media only screen and (max-width: 340px){
+    .blog_header {
+        padding: 8px;
+    }
+    .leftheaderlink{
+        margin-right: 0px;
+    }
+    .ico_hum {
+        width: 50px;
+    }
+    .createevent_listing li {
+        font-size: 11px;
+        margin-right: 8px;
+    }
+    .createevent_listing li i {
+        font-size: 18px;
+    }
+    .eventtitlesection h1 {
+        font-size: 18px;
+    }
+    .section.position_relative {
+        bottom: -320px;
+    }
+    .comissionsection1 {
+        margin-top: 70px;
+    }
+    .individual_royal .bus_com_hd h1{
+        right: 0;
+        bottom: 60px;
+        font-size: 34px;
+    }
+    .individual_royal .bus_com_hd p{
+        right: 0;
+        bottom: 67px;
+        font-size: 13px;
+    }
+    .business_banner .indi_images{
+        left: 0;
+    }
+
+}
+
+
+
+
+/*RESPONSIVE CSS START HERE*/
+
+@media(min-width:992px) and (max-width:1199px){
+
+	
+
+}
+
+@media(min-width:768px) and (max-width:991px){
+
+
+
+}
+
+@media(max-width:767px){
+.co-hero-slide-item-1{height:auto;}
+.co-footer-section-1{padding:20px 0px;}
+.co-hero-slide-content-1 h1{font-size:30px;}
+.comissionsection1{margin-top:50px;}
+.section.position_relative.gposition_relative{position:inherit!important;}
+.section.position_relative{position:inherit!important;}
+.section.position_relative.gposition_relative{top: 70px;}
+.co-hero-slide-content-1 h1{font-size:25px;}
+.whitebox_wrp{width:100%;}
+.assparner_block{width:38%; padding:1%;}
+.section.position_relative .container{margin-top:-40px;}
+.co-page-banner h1{font-size:32px;}
+.mt-280{margin-top:40px;}
+.mt-150{margin-top:40px;}
+.viewlistblock_wrapper{top:40px;}
+.co-mission-section-1{margin-top:30px;}
+.co-page-banner h1{text-align:center;}
+.directory_btn h1{padding-top:40px;}
+.structure_imgs img{height:auto!important; margin:20px 0px;}
+.benifit_ratio h1{margin-top:20px;}
+.right_banner .navbar-header{margin-top:-75px;}
+.left_footer{height:75px;}
+.sunmenu_wrapper1.retailireland_wrapper{ padding-top:141px;}
+.circul_box1{width:100%;}
+.circul_box1 span.right_btn{ right:0px;}
+.sixpillars_block {min-height:inherit; margin-bottom:10px;}
+.european_content p:first-child{ padding-top:20px;}
+.experience_banner h1{ font-size:24px; text-align:center;}
+.experience_banner h1{ padding:65px 0px;}
+.winner_content{ width:100%;}
+div.busnis_nav .submenu_list li{ background:#f5f1f1;}
+#navbar{z-index:999;}
+.pricing-table{margin-bottom:40px;}
+.refresh_icon{top: 7px;right: 0px;}
+.section.position_relative .container{ margin-top:0;}
+.none{ display:block;}
+.none2{ display:none;}
+.discount_upload h1{margin-left:0px;}
+.container-fluid {padding-right:0;padding-left:0;}
+.container-fluid > .navbar-header {margin-right:0;margin-left:0;}
+
+.blogshome_wrapper .blogstext_wrapper{ top: -270px;}
+.partnertext_wrapper {margin-top: 0;}
+
+.winner_wrapper{ background-size:cover;}
+.mb-80{ margin-bottom:20px;}
+.mt-80{ margin-top:30px;}
+.pt-105,.pt-100{ padding-top:20px;}
+.pb-105,.pb-100{ padding-bottom:20px;}
+.mb-70{ margin-bottom:20px;}
+.winner_content h1{ font-size:30px;}
+.winner_block{ width:100%;}
+.winner_content{ padding-left:0px;}
+.circul_box{ width:100%;}
+.circul_box span.right_btn{ display:none;}
+.view_wrapper .pillarabout .mb-20{ margin-bottom:40px;}
+.view_wrapper .pillarabout .font-normal{ padding-top:20px;}
+.pillar-sign span{ text-align:left;}
+.step_second .add_blog .filtersearch_blk{ width:120px;}
+/*.section{ position:inherit;}*/
+.co-mission-section-1 .relative{ position:inherit!important;}
+.discount_detail_margin_top {margin-top:50px;}
+
+.experience_banner .submenu_list{ float:left;}
+.association .business_banner .user_imag1{ width:100px; height:100px;}
+.partner_block{ padding:20px; height:160px;}
+.sunmenu_wrapper1.retailireland_wrapper{ padding:20px; height:160px;}
+.association_banner h4{ font-size:12px; padding-top:10px;}
+.left_footer{ font-size:12px; }
+.right_banner .submenu_list{top:60px; position:static; z-index:99999;}
+
+.meta{ width:65%!important;}
+.association .slick-initialized .business_banner.slick-slide{height:auto;}
+.association .navbar-toggle{ margin-top: -54px;}
+.pilller_nav_outer #navbar{ background:#fff;}
+.pilller_nav_outer #navbar .container{ width:100%; padding-left:0px; padding-right:0px;}
+.association .sunmenu_wrapper{ margin-top:-10px;}
+#copy,#edit,#save{ top:30px;}
+.text1{ display:block;}
+.text1 p span{ display:block;}
+#notificationcloseDiv{ width:80%!important;}
+.messenger_panel{ right:0px;}
+.other_login ul li .btn-set{ position:inherit; margin-bottom:10px; left:-17px;}
+.btn_icon{ margin-left:0px; margin-right:0px;}
+.pb-40{ overflow:hidden;}
+.beni_content p img{max-width:100%; object-fit: contain;}
+.assoc_nav .submenu_list{ width:100%; background: rgba(0, 0, 0, 0.5) none repeat scroll 0% 0%; margin-left:0px; margin-top:0px;}
+.left_footer{ height:auto; padding:10px;}
+.padd_top{ padding-top:30px;}
+.sunmenu_wrapper1.retailireland_wrapper{ height:202px;}
+.business_banner{ padding:100px 0px!important;}
+.dashboard .nav > li{ width:100%;}
+.connection .nav-tabs > li.active:first-child > a {  border: 1px dotted #000;}
+.individual_royal .bus_com_hd h1{ font-size:30px!important;top: 0;}
+.minisite_photo{ width:200px!important; height:200px!important;}
+.editimage_individual{ right:24%;}
+ .in_bs .bus_com_hd h1{ left: 34px; top: 0px; bottom: inherit; font-size: 20px;}
+ .pillar .sunmenu_wrapper {background-color: rgba(117, 117, 117, 1) !important;float: left; width: 100%;}
+ .business .navbar {background-color: rgba(33, 150, 243, 0.9) !important;}
+ .pillar .in_video .navbar .navbar { background-color: rgba(117, 117, 117, 1) !important; }
+ .partner .in_video .navbar .navbar { background: #F09A1B !important; }
+ .agency .in_video .navbar .navbar { background: #5EB761 !important; }
+
+.profilelist_blk img {width: 80%; height: 150px;object-fit: cover; }
+
+.dashboardformstyle1 .custom-file-input span{ display:inline-block!important; margin-bottom:25px;}
+.structure_block.structure_block1 .col-lg-6.col-md-6{
+    /*overflow: hidden; commented out as it creates issue on discount detail page for image. Image is cutting on top in responsive*/
+}
+.padding-top0{padding-top:0;}
+.margin-top0{margin-top:0;}
+.margin-bottom0{margin-bottom:0}
+.margin-top90{margin-top:90px;}
+.margin-top150{margin-top:150px;}
+.co-section-title-1 h1 {font-size: 24px;line-height: 27px;}
+.dashboard .sidebar{ width:100%;}
+.dashboard .main.margin-left{ margin-left:100%;}
+#sidebar{margin-left:-100%;}
+.individual_hover {float:none; width:90%;  margin:0 auto;}
+.dash_group .groups_img{ top:30%; left:10%;}	
+.yes{ top:200px; left:10%;}
+.pillar .business_banner .user_imag2{ width:134px; height:134px;}
+.pillar .profileimage_wrapper{ top:40%; left:2%;}
+.ribbon{ width:133px;}
+.profileimage_wrapper .editimage_individual{ right:-15px;}
+.in_bs .bus_com_hd h1{ top:30px;}
+.business_logo_class .editimage_individual{ left: 40%; top:70%;}
+.business_logo_class .user_images {top:306px!important;}
+.business .business_h1_img .co-hero-slide-content-1.bus_com_hd h1{ left:20px;}
+.agency .editimage_individual {top: 260px;right: 36px;}
+.partner .editimage_individual {top: 260px;right: 36px;}
+.pillar .bus_com_hd h1 {top: 0;}
+.partner .bus_com_hd h1 {top: 0;}
+.payment_table{ width: 100%; overflow:scroll;}
+.your_pay .date-filters{ margin: 10px 0px;}
+.icon_wrapper{top:-75px;}
+.pt-80{ padding-top: 20px;}
+.mt-190 {margin-top: 80px;}
+.mt-180 {margin-top: 80px;}
+
+.group_padd{ padding:0px 20px;}
+.groups_img{ width:110px; height:110px; top:30px; left:0px;}
+.skills_wrapper .co-tab-list-1.tab-three li{ width:100%;}
+.group_open{ margin-bottom:20px;}
+.main-menu.text-black > ul > li > a.dash_mobile{ display: block!important; }
+.main-menu.text-black > ul > li > a{ float: left; margin-left: 5px; }
+
+.fixed_header{ position:inherit!important; }
+h1{ font-size: 24px;}
+.settingsprivacy_header h3{ font-size: 20px; }
+.skills_wrapper h3{ float: left;}
+
+.navbar{ min-height: inherit!important;}
+.pillar_blog_overflow{overflow: hidden;}
+.association-nav-min-height {min-height: 30px!important;}
+.news_content{ overflow:hidden;}
+.news_content .structure_block.structure_block1 .col-lg-6.col-md-6{ overflow:hidden;}
+.slick-slide img.pillarsubpage_img{ width:90px; height:90px;}
+.experience_banner .ribbon p{ font-size:12px; line-height:20px;}
+.experience_banner .ribbon{ width:95px; height:200px;}
+.experience_banner .ribbon p{ padding-top:80px;}
+.slick-slide .experience_banner img.pillarsubpage_img{ margin-top:9px; }
+.experience_banner .pillarsubpage_wrapper{ width:auto;}
+.pillar_ribbon_top_circle{margin-top:0;}
+.pillarsubpage_wrapper {height: 241px;}
+.icon-bars {z-index:0;}
+.association_icon_bars_top .icon-bars {top: 114px!important;}  /* this is only for association page */
+.video_block_content .co-page-banner {padding-top: 94px;}
+
+.winner_wrapper .pillarsubpage_wrapper{ width:auto; margin:30px auto 0px auto;}
+.winner_wrapper .pillarsubpage_img{ width:120px; height:120px;}
+.winner_wrapper .pillarsubpage_wrapper .ribbon{ width:auto; margin-top: -56px;}
+.winner_wrapper .pillarsubpage_wrapper .ribbon p{ padding-top:60px;}
+.bg-dark{ padding-bottom:60px;}
+.artdeco-toast-item{ width:80%!important;}
+.inline-block h6{ display: block; margin-bottom: 20px; }
+.group_gallery .bigdrop{width: 100%!important;} /* this is for group gallery page as here it is taking extra width */
+.res_select .bigdrop {width: 100%!important;}
+.Invite_boxes {margin-bottom: 10px;}
+
+}
+
+
+
+
+
+
+@media(max-width:575px){
+
+
+}
+
+
+@media(max-width:479px){
+.assparner_block{ width:49%; padding:1%;}
+.right_banner .navbar-header{margin-top: 0px;}
+.sider_banner img{ height: 231px;}
+.latest_news ul li .news p{font-size:11px;}
+.latest_news ul li .news_day {font-size: 11px;}
+.latest_news ul li p{font-size: 12px;}
+.filtersearch_blk {width: 95px;}
+
+}
+
+@media(min-width:400px) and (max-width:500px){
+
+.business_logo_class .editimage_individual{ left: 42%; top:60%;}
+.business_logo_class .user_images {top:260px!important;}
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1599px) {
+    .bigdrop{ width:423px!important;}
+    .res_select .bigdrop{width:344px!important;} /* this is for gallery page as here it is taking extra width */
+    .group_gallery .bigdrop{width:335px!important;} /* this is for group gallery page as here it is taking extra width */
+    .dashboard_selectbox .bigdrop{width:468px!important;} /* this is for dashboard blog select box as here it is taking extra width */
+    .dashboard_likes_selectbox .bigdrop{width:221px!important;} /* this is for dashboard blog select box as here it is taking extra width */
+    .dashboard_privacy_selectbox .bigdrop{width:218px!important;} /* this is for dashboard privacy settings select box as here it is taking extra width */
+    .media_library_popup .filtersearch_input .bigdrop{width:467px!important;} /* this is for media library popup select box as here it is taking extra width */
+}
